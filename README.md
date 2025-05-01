@@ -44,6 +44,5 @@
 
 ---
 [![Alessandro stats](https://github-readme-stats.vercel.app/api?username=alessandroveras97)](https://github.com/anuraghazra/github-readme-stats)
-[![Alessandro stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandroveras97)](https://github.com/anuraghazra/github-readme-stats)
 
 🛠️ *Este perfil está sempre em construção, assim como minha jornada!*
