@@ -40,7 +40,7 @@
 
 - 📧 Email: alessandrooverass@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/alessandro-santos-veras](https://www.linkedin.com/in/alessandro-santos-veras/)  
-- 🌐 Portfólio: *Em breve...*
+- 🌐 Portfólio: *(https://github.com/alessandroveras97/PremiaNet.git)*
 
 ---
 [![Alessandro stats](https://github-readme-stats.vercel.app/api?username=alessandroveras97)](https://github.com/anuraghazra/github-readme-stats)
